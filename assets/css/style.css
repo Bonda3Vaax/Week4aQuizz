@@ -1,0 +1,125 @@
+.hide{
+    display:none;
+}
+  
+.invisible{
+    visibility:hidden;
+}
+  
+.disable{
+    pointer-events:none;
+}
+
+html,body{
+    font-family: 'Times New Roman', Times, serif;
+    height:100%;
+    width: 100%;
+}
+section{
+    max-width: 50%;
+    margin: 0 auto;
+}
+  
+#controls{
+    background-color: #ffffff;
+}
+  
+#highScores button{
+    margin: 25px 0;
+}
+ 
+#highScores div div{
+    padding: 25px;
+    font-weight:600;
+}
+  
+#highScores div div:nth-child(odd){
+    background-color:#efe6f9;
+}
+
+#positionWrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+  
+#info{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    max-width:1000px;
+    margin: 0 auto;
+    padding: 20px 20px;
+    color: rgb(0, 0, 0);
+}
+  
+  
+#scores{
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    
+}
+  
+#timer{
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    
+}
+  
+#intro{
+    text-align:center;
+}
+  
+button{
+    border: none;
+    padding:5px;
+    border-radius: 5px;
+    cursor:pointer;
+    color:white;
+    background-color:#fc00b9;
+}
+  
+#intro button:hover{
+    background-color: #fc00b9;
+}
+  
+#quizHolder #title{
+    font-weight: bolder;
+}
+  
+#quizHolder button{
+    display: block;
+    margin: 3px 0;
+    padding: 5px 5px;
+    width: 100%;
+    text-align: left;
+    border-radius:25px;
+    color:white;
+    background-color:#fc00b9;
+    cursor:pointer;
+}
+  
+#quizHolder button:hover{
+    background-color: #450094;
+}
+    
+#scoreIndicator p, #errorIndicator p{
+  margin:0;
+  margin-top:20px;
+}
+
+#scoreIndicator, #errorIndicator{
+    margin: 0;
+    margin: 10px auto;
+    font-size: 2.5em;   
+    font-weight: bolder;
+    border-top: 1px solid #999;
+    color: #000000;
+}
+
+#records input, #records button{
+  margin-top:20px;
+}
+  
