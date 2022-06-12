@@ -15,8 +15,8 @@ I have a better understanding of the JavaScript grammar however when it comes to
 
 This project helped sharpening my skills and had fun doing it. 
 
- - [For a full web description of the Password-NewGen](https://bonda3vaax.github.io/Password-NewGen2/)
- - [For a full github description of the Password-NewGen](https://github.com/Bonda3Vaax/Password-NewGen2)
+ - [For a full web description of the Password-NewGen](https://bonda3vaax.github.io/Week4aQuizz/)
+ - [For a full github description of the Password-NewGen](https://github.com/Bonda3Vaax/Week4aQuizz)
 
 # Features
 
@@ -72,7 +72,7 @@ To be reviewd by the Centralised Grading Team.
 
 Q: How do I access Week4aQuizz?
 
-A: By copying the following Url into your default Browser, https://bonda3vaax.github.io/Password-NewGen2/, followed by Enter key.
+A: By copying the following Url into your default Browser, https://bonda3vaax.github.io/Week4aQuizz/, followed by Enter key.
 
 ## Author
 
